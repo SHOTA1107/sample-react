@@ -1,11 +1,12 @@
-#README
+# README
 
-#Description
+# Description
 ・reactを使用したタスク投稿アプリ
 
-##Feature
+# Feature
 ・タスク投稿
+
 ・タスク削除
 
-##Development
+# Development
 2019/05/16-17
